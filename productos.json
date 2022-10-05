@@ -1,0 +1,218 @@
+[
+  {
+    "id": 0,
+    "nombre": "Super Dragonball",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_746825-MLA50249425214_062022-F.webp",
+    "info": "Desarrollador:\nDimps Corporation\n\nEditor:\nBandai Namco\n\nGenero:\nAccion,anime y manga\n\nJugadores:\n1-8 Cooperativo\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n14 Octubre 2020",
+    "consola": "switch"
+  },
+  {
+    "id": 1,
+    "nombre": "Animal Crossing",
+    "precio": 12000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_650648-MLA43429177645_092020-O.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nEstrategia,Vida virtual\n\nJugadores:\n1-8 Cooperativo\n\nIdioma:\nTexto esp, voces ing\n\nLanzamiento:\n20 Marzo 2020",
+    "consola": "switch"
+  },
+  {
+    "id": 2,
+    "nombre": "Pokemon Arceus",
+    "precio": 12500,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_744362-MLA49012110106_022022-F.webp",
+    "info": "Desarrollador:\nGame Freak\n\nEditor:\nNintendo\n\nGenero:\nRol,Accion RPG\n\nJugadores:\n1+ online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n28 Enero 2022",
+    "consola": "switch"
+  },
+  {
+    "id": 3,
+    "nombre": "Crash Bandicoot",
+    "precio": 12000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_884513-MLA40916645369_022020-F.webp",
+    "info": "Desarrollador:\nVicarious Visions\n\nEditor:\nActivision\n\nGenero:\nAccion,plataformas\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n29 Junio 2018",
+    "consola": "switch"
+  },
+  {
+    "id": 4,
+    "nombre": "Minecraft",
+    "precio": 9000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_646719-MLA45046828793_032021-F.webp",
+    "info": "Desarrollador:\nMojang\n\nEditor:\nMojang\n\nGenero:\nAventura,accion\n\nJugadores:\n8+ online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n12 Mayo 2017",
+    "consola": "switch"
+  },
+  {
+    "id": 5,
+    "nombre": "Super Smashbros",
+    "precio": 12000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_805062-MLA40861843559_022020-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nLucha,accion\n\nJugadores:\n1-8 online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n07 Diciembre 2018",
+    "consola": "switch"
+  },
+  {
+    "id": 6,
+    "nombre": "Mario Kart 8",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_976227-MLA40865290222_022020-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nConduccion,arcade\n\nJugadores:\n1-8 online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n18 Marzo 2022",
+    "consola": "switch"
+  },
+  {
+    "id": 7,
+    "nombre": "Pokemon Pikachu",
+    "precio": 11000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_883793-MLA40861843926_022020-F.webp",
+    "info": "Desarrollador:\nGame Freak\n\nEditor:\nNintendo\n\nGenero:\nRol,Accion RPG\n\nJugadores:\n1+ online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n16 Noviembre 2018",
+    "consola": "switch"
+  },
+  {
+    "id": 8,
+    "nombre": "Luigis Mansion",
+    "precio": 12000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_699851-MLA40862922069_022020-F.webp",
+    "info": "Desarrollador:\nNext level games\n\nEditor:\nNintendo\n\nGenero:\nAccion,aventura\n\nJugadores:\n1-8 online\n\nIdioma:\nTexto esp\n\nLanzamiento:\n31 Octubre 2019",
+    "consola": "switch"
+  },
+  {
+    "id": 9,
+    "nombre": "Mario Odyssey",
+    "precio": 15000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_958303-MLA40864140097_022020-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nAccion,plataformas\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp\n\nLanzamiento:\n27 Octubre 2017",
+    "consola": "switch"
+  },
+  {
+    "id": 10,
+    "nombre": "Pikmin 3",
+    "precio": 10000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_928473-MLA44340121238_122020-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nAccion,aventura\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp, voces ing\n\nLanzamiento:\n30 Octubre 2020",
+    "consola": "switch"
+  },
+  {
+    "id": 11,
+    "nombre": "Plants VS Zombies",
+    "precio": 11000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_816219-MLA45822158747_052021-F.webp",
+    "info": "Desarrollador:\nPopCap\n\nEditor:\nEA\n\nGenero:\nAccion,shooter\n\nJugadores:\n1-8\n\nIdioma:\nTexto esp, voces ing\n\nLanzamiento:\n18 Marzo 2021",
+    "consola": "switch"
+  },
+  {
+    "id": 12,
+    "nombre": "Mario Party",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_776422-MLA48119516759_112021-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nMinijuegos\n\nJugadores:\n1-4\n\nIdioma:\nTexto esp\n\nLanzamiento:\n29 Octubre 2021",
+    "consola": "switch"
+  },
+  {
+    "id": 13,
+    "nombre": "Zelda BOTW",
+    "precio": 13000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_951591-MLA40862922196_022020-F.webp",
+    "info": "Desarrollador:\nNintendo\n\nEditor:\nNintendo\n\nGenero:\nAccion,aventura\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n03 Marzo 2017",
+    "consola": "switch"
+  },
+  {
+    "id": 14,
+    "nombre": "Demon Slayer",
+    "precio": 15000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_760811-MLA51195737358_082022-F.webp",
+    "info": "Desarrollador:\nCyberConnect2\n\nEditor:\nAniplex of America\n\nGenero:\nAccion\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n10 Junio 2022",
+    "consola": "switch"
+  },
+  {
+    "id": 15,
+    "nombre": "Ratchet & Clank",
+    "precio": 12000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_755182-MLA46792980044_072021-F.webp",
+    "info": "Desarrollador:\nInsomniac Games\n\nEditor:\nSony\n\nGenero:\nAccion,Shooter\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n11 Junio 2021",
+    "consola": "ps5"
+  },
+  {
+    "id": 16,
+    "nombre": "Demon Souls",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_972821-MLA45056517536_032021-F.webp",
+    "info": "Desarrollador:\nBluepoint Games\n\nEditor:\nSony\n\nGenero:\nRol, RPG\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n19 Noviembre 2020",
+    "consola": "ps5"
+  },
+  {
+    "id": 17,
+    "nombre": "Fifa 23",
+    "precio": 16000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_710956-MLA51275779605_082022-F.webp",
+    "info": "Desarrollador:\nEA Sports\n\nEditor:\nEA Sports\n\nGenero:\nDeportes\n\nJugadores:\n1-4\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n30 Septiembre 2023",
+    "consola": "ps5"
+  },
+  {
+    "id": 18,
+    "nombre": "Sackboy",
+    "precio": 9000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_928590-MLA44341706305_122020-F.webp",
+    "info": "Desarrollador:\nSumo Digital\n\nEditor:\nSony\n\nGenero:\nAccion,aventura\n\nJugadores:\n1-4\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n19 Noviembre 2020",
+    "consola": "ps5"
+  },
+  {
+    "id": 19,
+    "nombre": "Spider-man Miles Morales",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_736145-MLA50145467465_052022-F.webp",
+    "info": "Desarrollador:\nInsomniac Games\n\nEditor:\nSony\n\nGenero:\nAccion,aventuras\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n06 Julio 2020",
+    "consola": "ps5"
+  },
+  {
+    "id": 20,
+    "nombre": "Returnal",
+    "precio": 11000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_877947-MLA46305203217_062021-F.webp",
+    "info": "Desarrollador:\nHousemarque\n\nEditor:\nSony\n\nGenero:\nAccion,shooter\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n30 Abril 2021",
+    "consola": "ps5"
+  },
+  {
+    "id": 21,
+    "nombre": "Just Dance 2021",
+    "precio": 11000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_821188-MLA46706906310_072021-F.webp",
+    "info": "Desarrollador:\nUbiSoft Paris\n\nEditor:\nUbisoft\n\nGenero:\nMusica\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp\n\nLanzamiento:\n12 Noviembre 2020",
+    "consola": "ps5"
+  },
+  {
+    "id": 22,
+    "nombre": "Death Stranding",
+    "precio": 13000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_821678-MLA47815830372_102021-F.webp",
+    "info": "Desarrollador:\nKojima Productions\nEditor:\nSony\n\nGenero:\nAccion,aventura\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n14 Julio 2020",
+    "consola": "ps5"
+  },
+  {
+    "id": 23,
+    "nombre": "Horizon Forbidden West",
+    "precio": 15000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_926589-MLA49015885287_022022-F.webp",
+    "info": "Desarrollador:\nGuerrilla Games\n\nEditor:\nSony\n\nGenero:\nAccion,aventura\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp, voces esp\n\nLanzamiento:\n18 Febrero 2022",
+    "consola": "ps5"
+  },
+  {
+    "id": 24,
+    "nombre": "Uncharted",
+    "precio": 14000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_703262-MLA48858970353_012022-F.webp",
+    "info": "Desarrollador:\nIron Galaxy\n\nEditor:\nSony\n\nGenero:\nAccion,aventura\n\nJugadores:\n1\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n19 Octubre 2022",
+    "consola": "ps5"
+  },
+  {
+    "id": 25,
+    "nombre": "Ghost of Tsushima",
+    "precio": 12500,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_858358-MLA47203909054_082021-F.webp",
+    "info": "Desarrollador:\nSucker Punch\n\nEditor:\nSony\n\nGenero:\nAccion,aventura\n\nJugadores:\n1-2\n\nIdioma:\nTexto esp, voces ingles y japones\n\nLanzamiento:\n20 Agosto 2021",
+    "consola": "ps5"
+  },
+  {
+    "id": 26,
+    "nombre": "Riders Republic",
+    "precio": 13000,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_734532-MLA48064243881_102021-F.webp",
+    "info": "Desarrollador:\nUbisoft Annecy\n\nEditor:\nUbisoft\n\nGenero:\nDeportes\n\nJugadores:\n1-50 online\n\nIdioma:\nTexto esp, voces ingles\n\nLanzamiento:\n28 Octubre 2021",
+    "consola": "ps5"
+  }
+]
