@@ -50,7 +50,7 @@ let $modalWindowCart = document.querySelector(".modal-cart");
 
 //PINTA LOS PRODUCTOS EN EL HTML
 let injectProducts = () => {
-  fetch("./productos.json")
+  fetch("Js/productos.json")
     .then((response) => response.json())
     .then((juegos) => {
       for (let juego of juegos) {
