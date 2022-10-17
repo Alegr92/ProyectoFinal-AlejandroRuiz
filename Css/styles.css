@@ -1128,3 +1128,18 @@ footer p {
     margin: 0 auto;
   }
 }
+
+@media (max-width: 400px) {
+  .main-img-carrito {
+    width: 60px;
+    height: auto;
+  }
+
+  .carrito-window {
+    width: 100%;
+  }
+
+  .flex {
+    width: 100%;
+  }
+}
